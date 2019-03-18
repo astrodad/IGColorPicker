@@ -45,7 +45,7 @@ class ColorPickerCell: UICollectionViewCell {
         checkbox.backgroundColor = .clear
         checkbox.hideBox = true
         checkbox.setCheckState(.unchecked, animated: false)
-        self.layer.borderColor = UIColor.grey.cgColor
+        self.layer.borderColor = UIColor.gray.cgColor
         self.layer.borderWidth = 5
         
         
