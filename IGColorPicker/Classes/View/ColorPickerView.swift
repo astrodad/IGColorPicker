@@ -25,7 +25,7 @@ open class ColorPickerView: UIView, UICollectionViewDelegate, UICollectionViewDa
     // MARK: - Open properties
     
     /// Array of UIColor you want to show in the color picker
-    open var colors: [UIColor] = [#colorLiteral(red: 1, green: 1, blue: 1, alpha: 1), #colorLiteral(red: 1, green: 0.231372549, blue: 0.1882352941, alpha: 1), #colorLiteral(red: 0.8352941176, green: 0, blue: 0, alpha: 1),
+    open var colors: [UIColor] = [#colorLiteral(red: 0.1005297378, green: 0.6536921859, blue: 1, alpha: 1),#colorLiteral(red: 0.9994722009, green: 0.3145755827, blue: 0.2090834677, alpha: 1),#colorLiteral(red: 1, green: 1, blue: 1, alpha: 1),#colorLiteral(red: 0.8352941176, green: 0, blue: 0, alpha: 1),
                                   #colorLiteral(red: 1, green: 0.5843137255, blue: 0, alpha: 1), #colorLiteral(red: 1, green: 0.8, blue: 0, alpha: 1), #colorLiteral(red: 0.2980392157, green: 0.8509803922, blue: 0.3921568627, alpha: 1),
                                   #colorLiteral(red: 0.3529411765, green: 0.7843137255, blue: 0.9803921569, alpha: 1), #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1), #colorLiteral(red: 0.3450980392, green: 0.337254902, blue: 0.8392156863, alpha: 1),
                                   #colorLiteral(red: 1, green: 0.1764705882, blue: 0.3333333333, alpha: 1), #colorLiteral(red: 0.5568627451, green: 0.5568627451, blue: 0.5764705882, alpha: 1), #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1),
